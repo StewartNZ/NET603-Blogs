@@ -17,3 +17,6 @@ This configuration allows for 4 subnets each represented by:
   - IP's range from 10|000001 (129) to 01|111111 (191)
 - 11|000000 (xxx.xxx.x.192)
   - IP's range from 11|000001 (193) to 11|111111 (255)
+
+
+  [Return](https://stewartnz.github.io/NET603-Blogs/)
