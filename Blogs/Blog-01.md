@@ -20,4 +20,4 @@ This configuration allows for 4 subnets each represented by:
   - IP's range from 11-000001 (193) to 11-111111 (255)
 
 
-  [Return](https://stewartnz.github.io/NET603-Blogs/)
+[Return](https://stewartnz.github.io/NET603-Blogs/)
