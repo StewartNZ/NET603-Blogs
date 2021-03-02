@@ -4,3 +4,4 @@ Following Phillips example I have created a GitHub Repository for my Blogs and h
 
 ### Current Blogs
 - ##### [Link to Blog-01 (25/02/2021)](https://stewartnz.github.io/NET603-Blogs/Blogs/Blog-01)
+- ##### [Link to Blog-02 (02/03/2021)](https://stewartnz.github.io/NET603-Blogs/Blogs/Blog-02)
