@@ -1,5 +1,6 @@
 # Blog - 02
 > ## 02/03/2021
+
 ### More Subnetting
 
 Todays class went over more subnetting examples and we were given an example to work through and find the mask, number of subnets and how many hosts each subnet has.
@@ -25,7 +26,7 @@ Todays class went over more subnetting examples and we were given an example to 
     4. 
         * 192.168.24.0 Net Address
         * 192.168.31.255 Broadcast Address
-    * To get any further addresses:
+    5. To get any further addresses:
         * Net = xxx.xxx.(previous + 8).0
         * Broadcast = xxx.xxx.(previous + 8).255
 
