@@ -28,7 +28,7 @@ Todays class went over more subnetting examples and we were given an example to 
         * 192.168.31.255 Broadcast Address
     5. To get any further addresses:
         * Net = xxx.xxx.(previous + 8).0
-        * Broadcast = xxx.xxx.(previous + 8).255
+        * Broadcast = xxx.xxx.(net + 7).255
 
 
 
