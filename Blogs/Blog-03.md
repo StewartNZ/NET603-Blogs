@@ -1,9 +1,9 @@
-# Blog - 00
-> ## date
+# Blog - 03
+> ## 09/03/2021
 
-### topic
+### DNS
 
-content
+
 
 
 [Return](https://stewartnz.github.io/NET603-Blogs/)

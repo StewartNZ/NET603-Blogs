@@ -30,6 +30,12 @@ Todays class went over more subnetting examples and we were given an example to 
         * Net = xxx.xxx.(previous + 8).0
         * Broadcast = xxx.xxx.(net + 7).255
 
+> ## 04/03/2021
 
+### IPv6 and Introduction to VSphere VM's
+
+This class we covered IPv6 and Hexadecimal. Hexidecimal or just Hex is a more readable version of binary but where every digit represents 4 bits and has the range of 0 to 9 plus A to F to keep it as a single digit. An IPv6 address is made up of 8 sections of 4 Hex digits or 1 Hextet making a total of 128 bits for each address.
+
+The other thing we did in this class was sign into Talos vSphere and have a look around and make a Virtual Machine. We were shown how there are virtual switches you can set up and were shown and example of a router using pfSense.
 
 [Return](https://stewartnz.github.io/NET603-Blogs/)
