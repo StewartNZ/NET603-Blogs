@@ -8,3 +8,4 @@ I have created a GitHub Repository for my Blogs and have also created a [discuss
 -   [Link to Blog-02 (02/03/2021 - 04/03/2021)](https://stewartnz.github.io/NET603-Blogs/Blogs/Blog-02)
 -   [Link to Blog-03 (09/03/2021 - 11/03/2021)](https://stewartnz.github.io/NET603-Blogs/Blogs/Blog-03)
 -   [Link to Blog-04 (16/03/2021 - 18/03/2021)](https://stewartnz.github.io/NET603-Blogs/Blogs/Blog-04)
+-   [Link to Blog-05 (03/06/2021)](https://stewartnz.github.io/NET603-Blogs/Blogs/Blog-05)
